@@ -1,7 +1,5 @@
-
-Berikut adalah README yang telah disesuaikan untuk Sistem Informasi Penitipan Helm tanpa fitur laporan harian dan autentikasi admin, dengan fokus pada bahasa pemrograman C#:
-
 Sistem Informasi Penitipan Helm
+
 Sistem Informasi Penitipan Helm adalah aplikasi berbasis desktop yang dibuat untuk mempermudah pengelolaan penitipan helm di tempat umum, seperti kampus, kantor, atau area parkir. Aplikasi ini dikembangkan menggunakan bahasa C# dan .NET Framework, dengan antarmuka yang sederhana dan mudah digunakan untuk mencatat dan melacak helm yang dititipkan dan diambil.
 
 Fitur
