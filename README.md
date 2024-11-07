@@ -7,6 +7,5 @@ Pendaftaran Penitipan Helm: Mengelola data helm yang dititipkan, termasuk inform
 Pengelolaan Data Helm: Sistem menyimpan status helm yang dititipkan dan helm yang diambil.
 Pencarian dan Pengambilan Helm: Fitur pencarian yang memudahkan pencatatan pengambilan helm dan memperbarui statusnya.
 
-
 Teknologi yang Digunakan
 Bahasa Pemrograman: C#
